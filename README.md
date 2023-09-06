@@ -14,13 +14,13 @@ The files "tableX.m" for X = 01,02,..,13 contain short Matlab files with which t
 
 Furthermore, for some tables the following external code is necessary:
 
-min_f.m and min_fc.m which can be found on
+min_f.m and min_fc.m which can be found on <br>
 http://www.opt.uni-duesseldorf.de/en/forschung-fs.html
 
-t10k-images-idx3-ubyte, t10k-labels-idx1-ubyte, train-images-idx3-ubyte an train-labels-idx1-ubyte available on
+t10k-images-idx3-ubyte, t10k-labels-idx1-ubyte, train-images-idx3-ubyte an train-labels-idx1-ubyte available on <br>
 http://yann.lecun.com/exdb/mnist/
 
-readMNIST.m by Siddharth Hegde provided on
+readMNIST.m by Siddharth Hegde provided on <br>
 https://github.com/YuhanLiuSYSU/MPS_ImageClassifier/blob/master/readMNIST.m
 
 
